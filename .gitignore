@@ -1,0 +1,14 @@
+# Ignore raw data and preprocessed frames
+data/raw/
+data/processed/
+debug_frames/
+debug_train_frames/
+saved_models/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+env/
+venv/
